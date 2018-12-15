@@ -1130,7 +1130,17 @@ class ParametersData {
 				'values'	=> [
 					'categoryadd',
 					'lastedit',
-					'none'
+                                        'counter',					
+					'size',
+                                        'category',
+                                        'sortkey',
+                                        'firstedit',
+                                        'pagetouched',
+                                        'pagesel',
+                                        'title',
+                                        'titlewithoutnamespace',
+                                        'user',
+					'none'								
 				]
 			];
 			$this->data['order'] = [
